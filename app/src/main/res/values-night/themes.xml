@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Practical" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorSuccess">@color/attendance_success_green</item>
+        <item name="colorSuccessContainer">@color/attendance_success_container</item>
+        <item name="colorAttendanceError">@color/attendance_error_red</item>
+        <item name="colorAttendanceErrorContainer">@color/attendance_error_container</item>
+    </style>
+</resources>
